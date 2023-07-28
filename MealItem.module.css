@@ -1,0 +1,59 @@
+.meal {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+    list-style: none;
+    color: rgb(252, 250, 250);
+    background-color: rgb(8, 99, 134);
+    margin: 20px 230px;
+    border-radius: 38px;
+    padding: 2px 30px;
+  }
+  
+  .meal h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  
+  .description {
+    font-style: italic;
+  }
+  
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #d38c08;
+    font-size: 1.25rem;
+  }
+  .button{
+    color: rgb(19, 18, 18);
+    background-color: rgb(25, 161, 240);
+    border-radius: 10px;
+    
+    
+    box-shadow: 2px 2px rgb(19, 18, 18);
+    
+  }
+
+  .input{
+    width: 10%;
+   
+
+  }
+  .label{
+    color: #d38c08;
+    width: 40%;
+   
+  }
+
+ 
+
+  .container{
+    margin: 30px 200px;
+    margin-right: 0px;
+  }
+  .button:hover{
+    background-color:rgb(16, 53, 156);
+    color: antiquewhite;
+  }
